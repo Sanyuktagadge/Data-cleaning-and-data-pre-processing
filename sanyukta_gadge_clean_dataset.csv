@@ -1,0 +1,501 @@
+INVOICE_ID,CUSTOMER_NAME,PRODUCT,PRICE,QUANTITY,DATE
+INV5207,Tyler Barnes,Tablet,390.22,2,03-02-2024
+INV1802,James Orr,Phone,1793.37,3,21-02-2024
+INV9347,Unknown,Tablet,281.7,2,
+INV3235,Kimberly Casey,Headphones,1994.4,2,05-02-2024
+INV4737,Ronald Sullivan,Headphones,265.95,2,
+INV9281,Jack Garcia,Headphones,647.5,1,
+INV8884,Dustin Griffin,Headphones,1962.75,1,
+INV5927,Gene Johns,Phone,358.49,3,12-02-2024
+INV4459,Terry Delgado,Phone,1515.97,2,
+INV4396,Laura Colon,Phone,1882.18,1,
+INV4182,Sylvia Robbins,Headphones,1073.2,1,30-01-2024
+INV1052,Bruce Valentine,Headphones,1867.39,3,20-02-2024
+INV2270,Kevin Cook,Laptop,977.45,1,24-02-2024
+INV7474,Martin Harding,Phone,1085.43,3,
+INV9348,Tommy Brady,Headphones,798.89,4,
+INV8102,Marcia Cooper,Headphones,1156.92,1,09-01-2024
+INV1186,Eric Palmer,Laptop,1654.73,4,01-01-2024
+INV5254,Julie Ray,Laptop,1845.98,5,
+INV4988,John Marshall,Headphones,224.84,5,02-03-2024
+INV2281,Rebecca Crawford,Phone,1922.98,5,25-01-2024
+INV6465,Mark Castillo,Tablet,254.23,1,18-01-2024
+INV5809,Autumn Bauer,Laptop,1028.33,4,
+INV6445,Robert Burton Md,Phone,135.26,5,23-03-2024
+INV7279,Robin Long,Laptop,1923.37,3,
+INV3725,Maria Hernandez,Headphones,1360.81,1,17-01-2024
+INV7184,Lauren Baldwin,Headphones,240.34,5,20-01-2024
+INV5709,Teresa Jones,Headphones,1074.774037,1,29-01-2024
+INV4749,Kendra Davis,Tablet,1316.93,4,23-02-2024
+INV3802,Phillip Sutton,Tablet,1655.49,4,01-08-2024
+INV1519,Jerry Lopez,Laptop,390.37,3,01-03-2024
+INV2535,Tamara Munoz,Phone,1239.17,5,12-03-2024
+INV9273,Denise Johnson,Phone,1659.04,3,
+INV7893,Victoria Gray,Laptop,741.3,3,29-02-2024
+INV7789,Elizabeth Smith,Tablet,1776.07,1,
+INV4805,Brandon Torres,Tablet,1835.31,1,
+INV8032,Angela Simpson,Laptop,164.17,1,17-03-2024
+INV1227,Alison Greene,Headphones,439.38,3,01-08-2024
+INV5565,Benjamin Davis,Headphones,1121.51,5,06-01-2024
+INV2464,Heather Wood,Laptop,1142.66,5,
+INV6492,Mary Nguyen,Phone,1962.25,2,26-03-2024
+INV5529,Blake Anderson,Tablet,963.54,4,
+INV6083,Lisa Chung,Headphones,986.67,3,10-01-2024
+INV4924,Katherine Roberts,Laptop,1506.09,2,
+INV4910,Tamara Becker,Headphones,1867.49,2,15-03-2024
+INV9880,Leslie Serrano,Headphones,1583.95,1,
+INV3614,Cynthia Jones,Headphones,1475.8,5,20-01-2024
+INV2630,Jason Grimes Md,Laptop,1458.25,2,
+INV9712,Charles Stephens,Laptop,1581.61,1,13-01-2024
+INV1139,Nicole Lucas,Phone,1168.47,3,14-02-2024
+INV9114,Unknown,Headphones,615.62,4,
+INV7331,Veronica Bennett,Laptop,832.93,4,05-01-2024
+INV4063,Kyle Shah,Headphones,1704.7,2,02-01-2024
+INV3512,Christina Palmer,Tablet,1189.03,4,28-01-2024
+INV4523,Heather Morse,Headphones,1581.13,5,01-08-2024
+INV4963,Willie James,Headphones,116.44,3,
+INV9669,Jill Acevedo,Tablet,1371.03,1,18-01-2024
+INV9278,Carrie Kelly,Tablet,597.01,1,14-01-2024
+INV9422,Unknown,Laptop,1074.774037,4,01-07-2024
+INV8126,Wendy Perez,Tablet,1954.53,4,09-01-2024
+INV3535,Peter Wood,Tablet,1096.09,4,23-02-2024
+INV3426,Cynthia Ross,Phone,324.06,2,
+INV2055,Deborah Johnson Md,Phone,362.5,2,
+INV4457,Ashley Olson,Laptop,1162.36,4,12-01-2024
+INV3867,Bradley Parker,Tablet,1152.29,2,21-01-2024
+INV9240,Christine Mendoza,Phone,464.23,2,
+INV8320,Felicia Kelley,Tablet,1237.04,3,24-02-2024
+INV7208,Alex Charles,Laptop,1436.82,4,
+INV8248,John Richardson,Tablet,1589.85,1,18-02-2024
+INV5015,Luis Newton,Tablet,717.75,1,11-03-2024
+INV7160,Kimberly Paul,Phone,1116.11,2,
+INV4742,Eric Andrews,Laptop,1815.81,3,
+INV8122,Brian Howard,Laptop,1339.81,2,01-11-2024
+INV9102,Anthony Mitchell,Phone,650.44,1,10-03-2024
+INV3762,Jerry Wilcox,Phone,618.63,4,
+INV5064,Dr. Pamela Webb,Laptop,1728.17,5,
+INV3449,Kevin Johnson,Phone,131.26,2,25-02-2024
+INV4348,Victor Butler,Tablet,1595.2,3,02-01-2024
+Unknown,Nicholas Price,Tablet,547.62,2,10-01-2024
+INV3975,Bethany Little,Laptop,1428.61,2,
+INV4247,Dennis Nelson,Laptop,1726.64,1,25-01-2024
+INV7936,Matthew Perry,Laptop,1343.28,2,
+INV1593,Laura Harris,Laptop,194.29,1,03-07-2024
+INV6081,Valerie Martinez,Laptop,1175.56,1,07-01-2024
+INV4041,Terry Wilson,Phone,1505.49,3,21-01-2024
+INV3465,Melissa Casey,Headphones,1733.04,2,07-01-2024
+INV1826,Mark Johnson,Phone,490.91,5,24-03-2024
+INV3793,Jared Martinez,Laptop,935.04,1,16-01-2024
+INV6539,Curtis Price,Laptop,1219.35,2,
+INV4443,Amanda Cox,Tablet,742.79,5,
+INV8531,Deborah Smith,Laptop,1003.65,3,
+INV2670,Jacqueline Hess,Laptop,233.36,4,25-03-2024
+INV2069,Isaiah Morgan,Tablet,1317.29,1,25-02-2024
+INV2106,Ashley Smith,Laptop,735.49,4,30-03-2024
+INV2785,Sandra Turner,Phone,1590.28,4,
+INV9956,Lisa Phillips,Headphones,148.16,1,
+INV7189,Daniel Young,Tablet,1371.52,4,02-05-2024
+INV6228,Deanna Bennett,Tablet,197.56,4,01-10-2024
+INV3881,Katherine Richardson,Tablet,823.37,4,19-01-2024
+Unknown,Pamela Adkins,Headphones,1949.8,3,09-03-2024
+INV9654,Jeffrey Bush,Headphones,221.73,3,
+INV2540,Linda Gross,Tablet,1753.6,5,
+INV6647,Kristin Johnson,Laptop,1816.7,5,
+INV6315,Michele Smith,Headphones,365.68,1,
+INV6409,Unknown,Tablet,355.95,3,
+INV6907,Joanne May,Phone,1012.24,3,
+INV9983,Kristen Stanton,Phone,1980.21,4,25-03-2024
+INV6396,Carla Woods,Phone,1034.09,2,
+INV2724,Jeffrey Smith,Phone,1074.774037,2,02-07-2024
+INV8048,William Miller,Headphones,996.15,1,16-02-2024
+INV5844,Rebecca Faulkner,Tablet,1491.18,4,18-02-2024
+INV2038,Michael Landry,Tablet,681.37,4,01-07-2024
+INV7947,Unknown,Tablet,1134.39,1,03-03-2024
+INV3887,Katherine Morales,Laptop,279.24,4,
+INV7301,Kelly Valdez,Laptop,524.75,1,
+INV3402,Mrs. Sandra Gray,Tablet,1535.82,3,29-02-2024
+INV9684,Molly Harris,Headphones,669.96,1,
+INV5731,Cindy Cole,Tablet,1876.91,4,02-01-2024
+INV4388,Earl Rodriguez,Phone,1778.62,4,21-01-2024
+INV7783,Michael Smith,Phone,204.09,4,18-03-2024
+INV5632,Mr. Herbert Lewis,Tablet,1522.73,1,
+INV8541,Brian Christian,Laptop,1751.38,4,23-02-2024
+INV6834,Jason Bradford,Phone,207.71,4,
+INV1185,Ricardo Mills,Phone,305.77,5,
+INV7929,Crystal Brown,Laptop,1531.7,1,05-02-2024
+INV6520,Jacqueline Burton,Headphones,633.88,1,
+INV6473,Crystal Villarreal,Phone,1134.21,4,08-03-2024
+INV5926,Dennis Dunn,Tablet,1245.82,3,21-03-2024
+INV4091,Mr. Michael Green,Laptop,970.87,2,
+INV1583,Patricia Zuniga,Phone,1235.04,2,23-02-2024
+INV2736,Loretta Solomon,Phone,1520.38,4,16-03-2024
+INV1610,Lauren Hendrix,Phone,1098.02,2,
+INV2754,Kimberly Gutierrez Phd,Headphones,866.91,2,
+INV6865,Debbie Johnson,Headphones,1376.59,1,
+INV3209,Jessica Pittman,Phone,811.8,4,21-01-2024
+INV9944,Marissa Grant,Laptop,1187.73,4,19-02-2024
+INV4022,Xavier Davis,Laptop,209.85,5,15-02-2024
+INV1105,Kelsey Taylor,Tablet,1380.51,2,
+INV2075,John White,Laptop,1266.53,5,24-02-2024
+INV7816,Steven Barnes,Phone,1234.38,3,27-03-2024
+INV1855,Gerald Berger,Laptop,267.48,3,30-01-2024
+INV9722,Dr. John Nichols,Phone,1976.17,3,13-02-2024
+INV2466,John Black,Headphones,1602.28,4,10-03-2024
+INV7527,Randy Jackson,Tablet,1288.42,5,02-02-2024
+INV1320,Larry Stephenson,Tablet,1870.54,5,
+INV4720,Jessica Smith,Tablet,1541.47,1,23-03-2024
+INV6121,Mr. Curtis Stanley,Phone,1569.77,4,
+INV5680,David Johnson,Laptop,1210.36,5,03-02-2024
+INV5195,Lorraine Fisher,Phone,1865.7,2,
+INV6892,Robert Logan,Tablet,724.03,5,
+INV2852,Jessica Eaton,Phone,533.03,1,
+INV6377,Tammy Braun,Tablet,1524.26,1,15-01-2024
+INV3269,Francisco Young,Tablet,734.86,3,02-03-2024
+INV3705,Sandra Sanchez,Phone,1969.61,2,04-03-2024
+INV6957,Joseph Adams,Laptop,1572.9,1,24-02-2024
+INV1295,Unknown,Phone,1742.37,5,
+INV3888,Meagan King,Phone,858.42,2,08-02-2024
+INV2273,Joseph Hopkins,Laptop,1678.96,4,18-02-2024
+INV6709,Anthony Ponce,Laptop,600.36,2,
+INV7314,Daniel Cunningham,Headphones,178.88,3,26-01-2024
+INV8660,Ernest Waller,Tablet,500.77,5,02-09-2024
+INV7025,Casey Gonzalez,Laptop,522.81,5,17-02-2024
+INV8005,Daniel Hartman,Tablet,1074.774037,5,
+INV7349,Kellie Buchanan,Laptop,980.66,5,
+INV9968,Stephanie Campbell,Laptop,303.81,1,18-03-2024
+INV4480,Karen Torres,Phone,1834.1,2,11-03-2024
+INV6041,Michael Frye,Tablet,217.59,1,
+INV7192,Unknown,Laptop,1831.41,1,
+INV4721,Cheryl Richardson,Laptop,898.64,4,
+INV3826,Jackson Irwin,Phone,1676.48,2,
+INV8807,Paul Randall,Phone,1214.34,5,02-05-2024
+INV8311,Danielle Marshall,Phone,1074.774037,3,12-02-2024
+INV7094,John Powell,Tablet,1852.21,4,
+INV7491,Mary Jones,Headphones,986.26,3,05-02-2024
+INV6696,Lori Carroll,Tablet,1230.65,3,04-03-2024
+INV4868,Erin Fernandez,Headphones,1118.87,3,13-01-2024
+INV2643,Stacy Roman,Laptop,1728.13,1,06-02-2024
+INV8779,Dr. Matthew Bradshaw,Phone,1628.2,5,
+INV1860,Nathan Walker,Phone,1767.01,5,24-03-2024
+INV8077,Christy Foley,Tablet,1225.57,2,02-11-2024
+INV8630,Lisa Johnson Phd,Laptop,195.5,4,
+INV9333,Amanda Hernandez,Phone,1253.17,3,15-01-2024
+INV6304,Gabriella Holmes,Phone,451.52,4,
+INV6265,Nicole Williamson,Tablet,1778.83,1,04-01-2024
+INV6682,Tracey Rivera,Laptop,1559.33,4,26-02-2024
+INV4154,Erik Sanders,Headphones,301.04,1,
+INV9188,Diane Payne,Laptop,621.47,1,
+INV1758,Richard James,Phone,943.91,5,05-01-2024
+INV6389,Ana Rodriguez,Headphones,318.39,3,22-02-2024
+INV3379,Courtney Lamb,Laptop,628.04,4,03-09-2024
+INV3362,Patrick Franklin,Phone,1093.81,4,25-02-2024
+INV5895,Dawn Hayes,Tablet,507.32,4,
+INV3977,Cathy Thomas,Headphones,1196.41,3,
+INV9042,Scott Lindsey,Phone,527.64,5,13-03-2024
+INV1812,Corey Butler,Tablet,1304.38,3,07-01-2024
+INV1810,Ashley Miranda,Laptop,476.15,5,
+INV2007,Gregory Austin,Phone,529.55,1,02-08-2024
+INV1958,Marilyn Cochran,Tablet,250.89,5,09-03-2024
+INV3287,John Thomas,Headphones,100.22,5,15-02-2024
+INV7267,Unknown,Headphones,1903.49,1,26-02-2024
+INV6202,Marcia Davis,Laptop,1113.18,5,15-03-2024
+INV7148,Karen Lawson,Laptop,1634.2,2,05-02-2024
+INV6443,Kevin Ramirez,Phone,1728.74,3,16-03-2024
+INV6686,Heather Mills,Headphones,1414.08,2,07-02-2024
+INV8471,Kevin Sanchez,Laptop,498.52,5,16-01-2024
+INV2562,Andrew Bell,Phone,117.55,3,09-03-2024
+INV9390,Beverly Kline,Headphones,1855.93,3,06-02-2024
+INV7534,Catherine Malone,Laptop,792.56,5,25-03-2024
+INV3446,Jennifer Williamson,Laptop,1081.16,5,28-03-2024
+INV2286,Nicole Snow,Phone,1596.32,3,13-03-2024
+INV2834,Carolyn Simpson,Headphones,1000.67,5,
+INV4756,Timothy Rose,Headphones,912.94,4,
+INV7795,Margaret Lowe,Phone,1777.55,4,26-03-2024
+INV7892,David Jackson,Laptop,1136.37,5,23-03-2024
+INV6803,Bradley Solis,Phone,602.41,3,03-07-2024
+INV9914,James Mckinney,Phone,1633.28,4,09-01-2024
+INV3303,Danny Jacobs,Phone,1817.22,4,03-01-2024
+INV7657,Christina Watkins,Phone,1657.34,4,12-02-2024
+INV7647,Elizabeth Wood,Headphones,1301.95,1,04-01-2024
+Unknown,Whitney Larson,Laptop,1818.53,2,
+INV1663,Marissa Medina,Headphones,204.22,5,01-05-2024
+INV1694,Andrew Dixon Md,Laptop,1131.95,1,
+INV4863,Steven Kirby,Tablet,1074.774037,4,01-02-2024
+INV6447,Anita Williams,Phone,764.78,1,21-03-2024
+INV3556,Jeffrey Edwards,Headphones,998.42,3,
+INV3423,Unknown,Laptop,157.07,3,
+INV5105,Jeremiah Ashley,Laptop,1803.52,4,16-02-2024
+INV2276,Bradley Gill,Headphones,859.3,5,
+INV2340,Brady Carlson,Tablet,966.26,5,
+INV1026,Daniel Jennings,Headphones,772.11,2,23-03-2024
+INV9419,Crystal Parrish,Phone,1651.7,4,06-01-2024
+INV3569,Chris Ward,Laptop,1829.14,2,14-03-2024
+INV4590,Mr. Jeremiah Parks,Tablet,651.68,2,
+INV8747,Unknown,Headphones,1072.65,2,
+INV2853,William Rhodes,Tablet,1661.89,4,07-03-2024
+INV9375,Renee Lee,Laptop,1840.16,4,
+INV8268,Evan Jenkins,Tablet,596.96,5,
+INV7303,Alicia Jackson,Phone,1307.92,2,06-02-2024
+INV5632,Andrew Mcmillan,Laptop,1065.89,4,03-11-2024
+INV7882,Karen Hurley,Headphones,363.14,4,
+INV9267,Ryan Manning,Laptop,318.26,2,01-02-2024
+INV9190,George Garcia,Tablet,195.7,3,
+Unknown,Thomas Jacobson,Laptop,1774.03,5,01-02-2024
+INV2269,Michael Bernard,Phone,311.17,1,04-03-2024
+INV8747,Sara Hanna,Phone,1175.73,4,03-04-2024
+INV5599,Tyler Wallace,Tablet,257.62,3,09-03-2024
+INV8417,Tommy Austin,Headphones,944.52,2,16-02-2024
+INV9531,Courtney Ayala,Headphones,1292.96,5,
+INV2953,Kari Elliott,Headphones,1178.23,3,06-02-2024
+INV3523,Daniel Garrett,Phone,1493.86,1,
+INV9536,Lori Moody,Laptop,907.84,5,
+INV2887,Kristina Mathews,Laptop,1327.38,2,06-01-2024
+INV4815,Dawn Taylor,Phone,1848.28,2,
+INV5414,Ms. Rebekah King,Tablet,817.88,2,
+INV4117,Patricia Conley,Laptop,682.6,2,04-01-2024
+INV4125,Susan Parker,Laptop,302.02,4,21-02-2024
+INV5875,Katelyn Browning,Phone,1972.92,3,
+INV5420,James Carter,Phone,832.54,1,06-02-2024
+INV2544,Kristy Hoffman,Laptop,1714.82,1,03-05-2024
+INV2139,Brenda Fernandez,Headphones,617.32,5,
+INV6109,David Lozano,Headphones,1213.3,1,15-03-2024
+INV8909,Johnny Guzman,Phone,1510.48,1,01-12-2024
+INV1270,Tracy Miller,Laptop,1636.36,2,
+INV3774,Samuel Moore,Laptop,903.05,2,
+INV1579,Michael Rogers,Headphones,456.33,3,03-07-2024
+INV6897,Alyssa Rojas,Headphones,1074.774037,3,14-01-2024
+INV5405,Jeffrey Brown,Headphones,824.18,5,
+INV2581,Andrew Baker,Headphones,524.79,1,
+INV7885,Unknown,Laptop,710.68,2,11-01-2024
+Unknown,Leslie Williams,Phone,1208.48,1,04-01-2024
+INV6158,Kelly Hayes,Phone,250.87,3,01-04-2024
+INV8024,Miguel Moreno,Tablet,163.18,2,
+INV7590,Vicki Murphy,Phone,243.52,4,
+INV6206,Lisa Jacobs,Laptop,890.39,3,14-03-2024
+INV3787,Joseph Morales,Headphones,958.96,5,04-03-2024
+INV1950,Steven Coleman Dds,Laptop,748.76,1,
+INV1955,Nicole Moyer,Tablet,1632.79,3,07-01-2024
+INV8642,Tammy Blevins,Phone,872.03,5,
+INV6017,Marcus Day,Tablet,1769.21,2,19-01-2024
+INV1258,Unknown,Headphones,1308.34,1,25-02-2024
+INV4200,Lisa Massey,Headphones,798.32,4,23-01-2024
+INV7549,Kristen Green,Headphones,1359.18,3,
+INV3629,Roy Hall,Laptop,953.23,3,07-02-2024
+Unknown,Melissa Winters,Headphones,177.95,4,02-01-2024
+INV6521,Kathy Fleming,Laptop,1518,4,
+INV8175,Richard Reeves,Laptop,1074.774037,4,05-02-2024
+INV2936,Ryan Maxwell,Phone,1662.02,4,08-01-2024
+INV8409,Michelle Gross,Headphones,787.88,1,01-03-2024
+INV8777,Victoria Johnson,Headphones,1509.75,1,02-03-2024
+INV9520,Anthony Sanford,Laptop,587.54,3,29-03-2024
+INV3410,Brandi Ross,Tablet,959.9,2,
+INV7971,Michael Chen,Laptop,170.29,5,28-03-2024
+INV9213,Brenda Allen,Headphones,1114.36,2,10-02-2024
+INV1209,Unknown,Headphones,1410.01,4,28-02-2024
+INV3580,Eric Bishop,Phone,716.02,3,26-02-2024
+INV1999,Jamie Gonzalez,Tablet,1247.64,1,02-03-2024
+INV5360,Lori Patrick,Phone,1539.22,2,
+INV8698,Gregory Randall,Headphones,1621.96,5,10-03-2024
+INV3607,William Ashley,Tablet,927.38,1,14-03-2024
+INV7927,Jill Lewis,Headphones,1628.26,5,01-03-2024
+INV8523,Mr. Michael Scott Phd,Laptop,453.42,4,24-03-2024
+INV1658,Gina Hanson,Laptop,191.77,4,16-03-2024
+INV5550,Sean Davies,Headphones,935.52,3,05-02-2024
+INV7265,Eric Carpenter,Laptop,1058.42,3,21-01-2024
+INV6489,Nicole Edwards,Headphones,1968.43,5,
+INV1746,Judith Rogers,Headphones,1131.49,5,03-11-2024
+INV5885,John Carroll,Tablet,460.2,5,07-01-2024
+INV3255,James Douglas,Headphones,954.71,3,
+INV3953,Ryan Rowe,Tablet,243.34,4,
+INV4512,Victoria Johnson Md,Phone,1655.2,2,03-09-2024
+INV8182,Marcus Sellers,Laptop,1267.36,5,02-05-2024
+INV3837,Dwayne Kerr,Tablet,1074.774037,2,03-10-2024
+INV5665,Unknown,Tablet,697.05,4,
+INV9490,Lisa Andrews,Headphones,268.68,5,29-03-2024
+INV9376,Jacqueline Sanchez,Laptop,1566.27,5,21-03-2024
+INV7544,Madison Brennan,Phone,124.58,5,01-03-2024
+INV1021,Alicia Walton,Headphones,1967.7,3,23-02-2024
+INV4793,Nancy Avila,Tablet,672.57,1,
+INV4348,Steven Shelton,Phone,1229.73,2,
+INV1052,Rachael Lewis,Tablet,836.17,5,29-03-2024
+INV6044,Brian Beasley,Headphones,757.56,3,
+INV3451,Patricia Mcgrath,Laptop,1124.34,5,
+INV2859,Sandra Perez,Headphones,1974.58,2,
+INV5871,Richard Fisher,Tablet,1981.67,4,
+INV7846,Thomas Hubbard,Headphones,255.21,3,26-02-2024
+INV3334,Gabriel Lee,Tablet,1879.01,4,29-02-2024
+INV6497,Chad Campos,Laptop,964.44,4,
+INV2169,Nicolas Barajas,Laptop,1259.87,2,07-02-2024
+INV6694,Amanda Nelson,Phone,474.16,3,
+INV1508,Ms. Heather Kelley,Laptop,1858.59,4,
+INV7676,Joseph Watts,Headphones,462.48,2,
+INV5048,Ashley Gonzalez Md,Tablet,437.72,3,02-02-2024
+INV8255,Robert Anderson,Laptop,719.77,5,01-11-2024
+INV7533,Tiffany Erickson,Headphones,340.9,5,28-02-2024
+INV6935,Alison Medina,Tablet,1074.774037,3,25-03-2024
+INV9911,Robert Benson,Laptop,957.86,3,26-01-2024
+INV9818,Kimberly Wilson,Headphones,1791.08,4,
+INV7355,Dr. Matthew Combs,Laptop,1307.37,3,
+INV6239,Nicholas Gonzalez,Phone,1107.62,3,20-03-2024
+INV9018,Mrs. Kimberly Wang Md,Laptop,853.66,4,23-03-2024
+INV4795,Anna Hughes,Headphones,1103.89,2,28-01-2024
+INV5180,Karen Walker,Headphones,824.85,4,27-03-2024
+INV6355,Mrs. Donna Warren,Headphones,492.42,5,
+INV7163,Kaitlin Fleming,Phone,888.03,4,19-02-2024
+INV7102,Sheila Allen,Headphones,1400.48,4,15-01-2024
+INV9260,Jasmine Kelly,Phone,1795.83,3,11-01-2024
+INV4387,James Potts,Headphones,1070.28,5,05-01-2024
+INV5357,Amanda Black,Phone,1968.69,2,
+INV1983,John Campbell,Laptop,1019.16,1,26-03-2024
+INV2564,Casey Chen,Tablet,836.43,5,
+INV5487,Craig Ramos,Tablet,332.79,3,
+INV4787,Unknown,Tablet,1353.14,2,
+INV3498,Jacob Escobar,Phone,1183.78,5,21-02-2024
+INV6054,Mark Garza,Tablet,1600.32,3,
+INV3420,Mary Bentley,Phone,655.99,3,25-01-2024
+INV2812,Wendy Davidson,Tablet,1428.24,4,
+INV7586,Richard Taylor,Headphones,998.4,5,17-01-2024
+INV7606,Dana Martinez,Headphones,681.65,4,
+INV2894,Kenneth Phillips,Phone,237.3,1,20-02-2024
+INV7538,Zachary Collins,Headphones,1475.1,2,
+INV6589,Matthew Morrison,Phone,1115.58,3,
+INV6623,Donna Jordan,Laptop,921.15,3,13-03-2024
+INV8408,Drew Taylor,Phone,1074.774037,1,
+INV4997,Jenna Gutierrez,Laptop,783.15,5,03-01-2024
+INV9029,Matthew Nguyen,Laptop,1982.47,3,
+INV2885,Shannon Nielsen,Laptop,678.04,1,03-12-2024
+INV6959,Christina Baldwin,Tablet,1597.74,4,
+INV2761,Christopher Moreno,Laptop,943.64,3,22-02-2024
+INV9685,Albert Alexander,Headphones,1690.43,5,03-01-2024
+INV2239,Joseph Beck,Tablet,500.14,2,
+INV2490,Todd Rodriguez,Tablet,334.95,5,
+INV5111,Kimberly Collins,Laptop,1207.37,5,
+INV6589,Richard Marquez,Phone,220.52,3,
+INV3097,Michael Marquez,Phone,1900.79,1,23-03-2024
+INV6234,Unknown,Tablet,724.42,4,07-03-2024
+INV9648,Ann Flowers,Tablet,1587.82,1,01-03-2024
+INV1816,Nathaniel Brown,Tablet,1915.65,3,08-03-2024
+INV9515,Carlos Freeman,Tablet,1047.51,4,19-02-2024
+INV7371,Noah Cox,Tablet,237.66,4,
+INV3965,Richard Wilcox,Headphones,315.82,2,
+INV4856,Austin Foster,Laptop,1074.774037,4,13-01-2024
+INV5053,John Gomez,Laptop,1191.65,2,25-02-2024
+INV9271,Ryan Saunders,Headphones,1277.56,4,
+INV1230,Monica Wright,Tablet,1083.62,2,25-01-2024
+INV6812,Ana Douglas,Laptop,1773.8,5,03-07-2024
+INV2964,Jessica Williams,Phone,460.99,5,26-02-2024
+INV5548,Amanda Wells,Headphones,445.19,2,02-01-2024
+INV3301,Kristin Gonzalez,Headphones,665.54,3,
+INV6322,Katherine Taylor,Headphones,1263.31,1,24-01-2024
+INV3780,Jonathan James,Phone,504.11,2,
+INV3395,Anthony Rubio,Laptop,1650.99,1,03-04-2024
+INV1747,Eric Adkins,Phone,1465.2,2,
+INV6567,Kim Zamora,Phone,1216.39,5,
+INV8958,Amanda Martin,Laptop,255.15,5,
+INV9429,John Bruce,Headphones,545.76,4,26-01-2024
+INV7634,Sean Daniels,Phone,1407.64,1,11-03-2024
+INV2667,Raymond Williams,Headphones,298.02,4,
+INV3406,Susan Franco,Headphones,1470,3,10-03-2024
+INV3798,Valerie Morales,Phone,616.03,1,13-02-2024
+INV2437,Briana Rhodes,Headphones,1010.36,5,
+INV9578,Ryan Rodriguez,Phone,253.67,2,03-02-2024
+INV7139,Jonathan Nichols,Headphones,496.47,2,
+INV3572,Jessica Roach,Headphones,790.68,3,
+INV2023,Toni Thomas,Laptop,481.82,2,24-03-2024
+INV2427,Tiffany Flowers,Phone,1346.67,2,
+INV3705,Kristin Ramirez,Headphones,1275.19,1,
+INV3542,Emily Brown,Phone,1871.59,2,28-02-2024
+INV2139,Linda Dominguez,Phone,257.18,5,04-02-2024
+INV4307,Unknown,Tablet,266.85,4,
+INV6518,Lauren Rose,Laptop,1636.93,1,03-02-2024
+Unknown,Adrienne Davis,Headphones,1034.63,5,
+INV8418,Troy Johnson,Phone,1082.81,4,
+INV6487,Rachel Reyes Phd,Laptop,1017.17,2,24-02-2024
+INV7502,Barbara Young,Phone,1737.73,4,02-02-2024
+INV5530,Nicole Stanton,Phone,494.12,3,
+INV7803,Chase Moore,Laptop,1074.774037,4,10-03-2024
+INV1576,Allison Camacho,Headphones,997.17,3,15-02-2024
+INV5225,Kyle Hart,Phone,422.69,2,13-03-2024
+INV8148,Miguel Burgess,Tablet,580.38,5,13-03-2024
+INV7179,Jamie Campbell,Phone,1473.51,2,
+INV5767,Kent Pennington,Phone,1051.55,2,
+INV3216,Andrew Ingram,Headphones,1074.774037,4,14-01-2024
+INV4318,Tammy Hurst,Tablet,1968.9,4,07-01-2024
+INV5307,Joanne Brown,Phone,1074.774037,5,
+INV9374,Eric Jones,Headphones,1302.28,5,17-03-2024
+INV2919,Unknown,Phone,140.1,4,
+INV8028,Unknown,Laptop,927.39,2,26-01-2024
+INV6029,Sara Butler,Phone,929.37,5,05-03-2024
+INV7262,Unknown,Tablet,1996.41,5,15-02-2024
+INV6333,Clayton Paul,Tablet,1437.17,2,
+INV2509,Xavier Smith,Tablet,1466.51,1,
+INV5287,Wanda Mays,Phone,407.93,5,18-01-2024
+INV5906,Robert Rogers,Tablet,1577,1,
+INV9718,Kathryn Simon,Laptop,1958.18,4,
+INV3496,Shelley Turner,Headphones,1431.06,3,
+INV4868,Michael Booth,Headphones,1449.05,2,
+INV1033,Brandon White,Laptop,1105.6,3,
+INV6062,Gina Lopez,Phone,1763.36,1,22-01-2024
+INV3824,Nicole Mendez,Phone,499.9,5,
+INV3896,Daniel Price,Phone,466.07,5,10-01-2024
+INV7877,Kimberly Wright,Laptop,1737.49,2,24-01-2024
+INV6297,Eric Miller,Tablet,501.14,4,
+INV4262,Mr. Michael White,Phone,589.08,4,
+INV7669,John Brown,Headphones,1333.75,1,14-03-2024
+INV6612,Rachel Luna,Phone,1644.15,5,03-07-2024
+Unknown,Joseph Berry,Headphones,1074.774037,5,17-01-2024
+INV4794,Thomas Harris,Laptop,346.34,2,01-10-2024
+INV1418,Richard Guerrero,Laptop,1575.68,5,08-01-2024
+INV9175,Rachel Mason,Headphones,546.99,2,23-02-2024
+INV6838,Unknown,Headphones,293.7,2,17-01-2024
+INV6579,Unknown,Headphones,1794.31,3,
+INV6815,Jeffrey Wilson,Laptop,185.07,5,07-03-2024
+INV6165,Richard Wright,Phone,1259.63,5,01-02-2024
+INV8621,Unknown,Laptop,1698.18,1,07-03-2024
+INV4969,Donald Osborne,Headphones,1073.34,5,02-04-2024
+INV6277,Daniel Alvarez,Phone,1444.6,4,03-08-2024
+INV7289,Mark Mullins,Headphones,1366.36,4,01-10-2024
+INV7625,Kenneth Phillips,Phone,1029.27,1,28-03-2024
+INV5247,Charles Thomas,Headphones,1444.12,2,22-03-2024
+INV6137,Natasha White,Tablet,1824.84,2,
+INV6669,Matthew Blake,Phone,1719.66,5,
+INV6500,Unknown,Laptop,236.26,2,
+INV9599,Kathryn Cruz,Tablet,928.83,3,
+INV1872,Amanda Smith,Tablet,1487.2,2,
+INV1459,Douglas Fernandez,Tablet,1823.3,4,19-01-2024
+INV2873,Donald Graham,Tablet,1690.72,3,
+INV8231,Ryan Atkinson,Laptop,584.93,1,
+INV7197,Ernest Taylor,Headphones,913.88,3,
+INV6740,Yolanda Elliott,Tablet,1047.19,2,08-02-2024
+INV3710,Travis Thompson,Phone,970.84,3,01-04-2024
+INV3292,Jennifer Gardner,Phone,871.54,1,03-03-2024
+Unknown,John Wagner,Phone,1802.03,5,09-01-2024
+INV6229,Jacqueline Spencer,Headphones,1892.26,2,
+INV5804,Mark Anderson,Phone,1096.59,4,01-09-2024
+INV5709,Sara Hamilton,Laptop,1395.24,2,
+INV1401,Brian Mendoza,Phone,1167.17,3,16-01-2024
+INV7319,Robert Medina,Laptop,1198.86,5,
+INV2702,Andrew Stephens,Tablet,1827.08,1,27-02-2024
+INV6526,Amber Graham,Tablet,477.39,2,10-01-2024
+INV1448,Jerry Morgan,Headphones,1155.3,3,15-01-2024
+INV8515,Jamie Chung,Tablet,420.64,5,12-03-2024
+INV8564,Kelly Hicks,Laptop,1074.774037,3,12-03-2024
+INV5487,Paul Davis,Laptop,663.34,3,
+INV4555,Erica Solis,Tablet,793.28,3,
+INV8424,Shawn Barnes Phd,Phone,1944.86,4,13-01-2024
+INV5347,Amy Robinson,Tablet,1521.52,2,02-11-2024
+INV7155,Matthew Mcmahon,Laptop,981.08,5,
+INV1263,Katie Allen,Headphones,268.14,2,
+INV4753,Robin Savage,Headphones,1365.54,3,
+INV7705,Gabriella Mitchell,Phone,1856.88,1,29-03-2024
+INV1292,Amanda Ortiz,Phone,1148.12,5,02-01-2024
+INV4150,Sara Vazquez,Tablet,116.4,4,18-01-2024
+INV1782,Gerald Gutierrez,Headphones,1508.08,4,
+INV7585,Nicholas Poole,Phone,403.79,5,17-01-2024
+INV1749,Kenneth Brock,Tablet,449.43,4,29-02-2024
+INV8488,Betty Booth,Headphones,960.04,2,07-03-2024
+INV4271,Jeffrey Morse,Tablet,1423.74,5,
+INV8650,Ashley Park Dds,Tablet,409.48,5,
+INV7418,Thomas Wilson,Laptop,1187.26,5,
+INV9359,Jamie Hernandez,Laptop,1451.56,2,17-03-2024
+INV9239,Cheryl Cruz,Headphones,1795.23,1,
